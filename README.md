@@ -1,12 +1,12 @@
-<!doctype>
+<!DOCTYPE html>
 <html>
 <head>
-<title> amirreza 1st page</title>
-<meta charset="utf_8" />
+	<title> amirreza 1st page</title>
+	<meta charset="utf_8" />
 </head>
 
 <body>
-  <h1> اولین تجربه رو تبریک میگم<h1>
+  	<h1> اولین تجربه رو تبریک میگم<h1>
 	<table border="3" title="ax">
 		<caption> طنز </caption>
 		<tr>
